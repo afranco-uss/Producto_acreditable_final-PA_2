@@ -1,0 +1,11 @@
+C:\Users\usuario\source\repos\SistemaMatriculas\Helper\bin\Debug\Helper.dll
+C:\Users\usuario\source\repos\SistemaMatriculas\Helper\bin\Debug\Helper.pdb
+C:\Users\usuario\source\repos\SistemaMatriculas\Helper\obj\Debug\Helper.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\SistemaMatriculas\Helper\obj\Debug\Helper.dll
+C:\Users\usuario\source\repos\SistemaMatriculas\Helper\obj\Debug\Helper.pdb
+C:\Users\Anthony\source\repos\SistemaMatriculas\Helper\bin\Debug\Helper.dll
+C:\Users\Anthony\source\repos\SistemaMatriculas\Helper\bin\Debug\Helper.pdb
+C:\Users\Anthony\source\repos\SistemaMatriculas\Helper\obj\Debug\Helper.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\SistemaMatriculas\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\SistemaMatriculas\Helper\obj\Debug\Helper.dll
+C:\Users\Anthony\source\repos\SistemaMatriculas\Helper\obj\Debug\Helper.pdb
